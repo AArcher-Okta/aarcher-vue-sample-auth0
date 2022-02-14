@@ -22,4 +22,6 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
+# Sensitive files
 auth_config.json
+main.js
