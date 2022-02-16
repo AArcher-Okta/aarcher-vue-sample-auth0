@@ -4,12 +4,10 @@ import { authGuard } from '../auth/authGuard';
 import Home from '../views/Home.vue'
 import Profile from "../views/Profile.vue";
 import ExternalApiView from "../views/ExternalApi.vue";
+// uncomment and modify About route to use About route without code-splitting  
+// import About from "../views/About.vue"
 
 Vue.use(VueRouter)
-
-// const routes = [
-  
-// ]
 
 const router = new VueRouter({
   mode: 'history',
