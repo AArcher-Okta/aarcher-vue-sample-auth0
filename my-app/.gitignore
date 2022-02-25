@@ -25,3 +25,4 @@ pnpm-debug.log*
 # Sensitive files
 auth_config.json
 main.js
+placeholder.txt
